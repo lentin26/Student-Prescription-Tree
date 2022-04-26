@@ -1,6 +1,6 @@
 # Student Prescription Tree
 
-This project reproduces the paper "Model Distillation for Interpretable Prsonalized Pricing".
+This project reproduces the paper "Model Distillation for Interpretable Personalized Pricing".
 
 # Citation and the Original Paper
 
